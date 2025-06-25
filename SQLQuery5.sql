@@ -1,0 +1,22 @@
+INSERT INTO Estudiantes (Nombres, Apellidos, CURP, Email, Telefono, Direccion, Carrera, Modalidad, Becado, TieneMascotas, Mascotas, HorarioComida, Descripcion)
+VALUES 
+('Carlos', 'Ramírez', 'CARM890101HDFRMN01', 'carlos.ramirez@example.com', '5551234561', 'Av. Reforma 101', 'Psicología', 'Presencial', 1, 1, 'Perro', '08:30 AM', 'Interesado en conducta humana'),
+('María', 'López', 'MALJ920202MDFLPR02', 'maria.lopez@example.com', '5523345672', 'Calle Hidalgo 23', 'Administración', 'Online', 0, 0, NULL, NULL, 'Apasionada por los negocios'),
+('José', 'Martínez', 'JOMM930303HDFMRZ03', 'jose.martinez@example.com', '5534456783', 'Blvd. México 55', 'Ingeniería en Sistemas', 'Ambos', 1, 1, 'Gato', '02:00 PM', NULL),
+('Lucía', 'García', 'LUGA940404MDFGRC04', 'lucia.garcia@example.com', '5545567894', 'Calle Juárez 34', 'Derecho', 'Presencial', 0, 0, NULL, NULL, 'Le gusta debatir'),
+('David', 'Hernández', 'DAHE950505HDFHRN05', 'david.hernandez@example.com', '5556678905', 'Av. Insurgentes 99', 'Educación', 'Online', 1, 1, 'Conejo', '12:00 PM', NULL),
+('Laura', 'Ruiz', 'LARU960606MDFRUZ06', 'laura.ruiz@example.com', '5567789016', 'Col. Centro 12', 'Química', 'Presencial', 0, 0, NULL, NULL, NULL),
+('Pedro', 'Sánchez', 'PESA970707HDFSNC07', 'pedro.sanchez@example.com', '5578890127', 'Calle Palma 18', 'Biología', 'Online', 1, 0, NULL, NULL, 'Ama la naturaleza'),
+('Ana', 'Mendoza', 'ANME980808MDFMNZ08', 'ana.mendoza@example.com', '5589901238', 'Col. Roma Norte', 'Comercio', 'Presencial', 0, 1, 'Hamster', '03:30 PM', NULL),
+('Miguel', 'Ortiz', 'MIOR990909HDFRTZ09', 'miguel.ortiz@example.com', '5591012349', 'Calle Reforma 333', 'Matemáticas', 'Ambos', 1, 0, NULL, NULL, NULL),
+('Fernanda', 'Pérez', 'FEPE000101MDFPRZ10', 'fernanda.perez@example.com', '5511123450', 'Av. Central 45', 'Educación', 'Presencial', 0, 1, 'Gato', '01:00 PM', 'Creativa y alegre'),
+('Luis', 'Castillo', 'LUCA010202HDFCSL11', 'luis.castillo@example.com', '5522234561', 'Col. Del Valle', 'Derecho', 'Online', 1, 1, 'Tortuga', '07:30 AM', NULL),
+('Andrea', 'Morales', 'ANMO020303MDFMRS12', 'andrea.morales@example.com', '5533345672', 'Calle 5 de Mayo', 'Psicología', 'Ambos', 0, 0, NULL, NULL, NULL),
+('Jorge', 'Navarro', 'JONA030404HDFNVR13', 'jorge.navarro@example.com', '5544456783', 'Calle Noche 66', 'Biología', 'Presencial', 1, 0, NULL, NULL, NULL),
+('Isabel', 'Vargas', 'ISVA040505MDFVGS14', 'isabel.vargas@example.com', '5555567894', 'Calle Sol 88', 'Comercio', 'Online', 0, 1, 'Pez', '11:00 AM', 'Interés por el marketing'),
+('Carlos', 'Jiménez', 'CAJI050606HDFJMZ15', 'carlos.jimenez@example.com', '5566678905', 'Av. Universidad 10', 'Sistemas Computacionales', 'Ambos', 1, 0, NULL, NULL, NULL),
+('Sofía', 'Delgado', 'SODE060707MDFDLG16', 'sofia.delgado@example.com', '5577789016', 'Calle Luna 99', 'Matemáticas', 'Presencial', 0, 1, 'Gato', '04:00 PM', 'Le encantan los números'),
+('Manuel', 'Flores', 'MAFL070808HDFFLR17', 'manuel.flores@example.com', '5588890127', 'Calle Sol 12', 'Química', 'Online', 1, 1, 'Perro', '06:00 PM', NULL),
+('Gabriela', 'Silva', 'GASI080909MDFSLA18', 'gabriela.silva@example.com', '5599901238', 'Col. Condesa', 'Psicología', 'Ambos', 0, 0, NULL, NULL, NULL),
+('Emilio', 'Treviño', 'EMTR091010HDFTRV19', 'emilio.trevino@example.com', '5510012349', 'Col. Doctores', 'Economía', 'Presencial', 1, 1, 'Pez', '05:00 PM', 'Fanático de las finanzas'),
+('Valeria', 'Carrillo', 'VACA101111MDFCRO20', 'valeria.carrillo@example.com', '5521123450', 'Av. Insurgentes 300', 'Administración', 'Online', 0, 0, NULL, NULL, 'Excelente liderazgo');
